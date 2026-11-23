@@ -38,6 +38,7 @@ npm run dev
 ```
 
 #### Executando Aplicação
+Favor descompactar arquivo "diario-app.zip", não consegui upar a pasta.
 Copie o arquivo ".env App" para dentro da pasta diario-app, e renomeie para ".env", e coloque o IP da sua máquina local na linha 9.
 Execute os comandos:
 ```
