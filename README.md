@@ -127,6 +127,6 @@ Rafael    Diário             Visualização e Ajustes                          
           Privacidade
         Personalizar Tema
         
-![Tela Inicial do APP.](https://drive.google.com/file/d/14pz9AQ6r8NnXWRijBnfPTPDp0SNjNYty/view)
-![Tela Registro de Emoção.](https://drive.google.com/file/d/1RmNDxFh1CMD4JkMkriLVrT0Y0EbeJr5a/view?usp=sharing)
+Tela Inicial do APP. (https://drive.google.com/file/d/14pz9AQ6r8NnXWRijBnfPTPDp0SNjNYty/view?usp=drive_link)
+Tela Registro de Emoção. (https://drive.google.com/file/d/1RmNDxFh1CMD4JkMkriLVrT0Y0EbeJr5a/view?usp=drive_link)
 
